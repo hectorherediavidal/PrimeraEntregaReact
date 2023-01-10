@@ -36,3 +36,33 @@
     transform: rotate(360deg);
   }
 }
+
+
+a{
+  font-size: 32px;
+  color: #61DAFB;
+  text-decoration: none;
+}
+
+nav{
+  background-color: rgb(5, 5, 5);
+  display: flex;
+  justify-content: space-around;
+}
+
+.divFoto{
+  margin-top: 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.foto{
+  width: 700px;
+  
+}
+
+.texto{
+
+}
